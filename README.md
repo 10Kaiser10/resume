@@ -7,7 +7,6 @@
   Resume based on Awesome CV Template
 </h1>
 
-<p align="center">
+
   Link to the LaTeX template: [Github](https://github.com/posquit0/Awesome-CV) | [Overleaf](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm#:~:text=Awesome%20CV%20is%20LaTeX%20template,com%2Fposquit0%2FAwesome%2DCV)
-</p>
 
